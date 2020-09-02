@@ -16,3 +16,6 @@ Preprint can be found here.
 4. ktree_orig.py
 5. ktree_perm.py, ktree_rand.py
 6. Figures.ipynb
+
+
+Early Stopping code from this repository: https://github.com/Bjarten/early-stopping-pytorch
